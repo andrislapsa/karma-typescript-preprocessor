@@ -21,7 +21,7 @@
     "Majid Burney <moocow@euphoricsoup.com>"
   ],
   "dependencies": {
-    "node-tsc": "0.0.12",
+    "node-tsc": "sergeyt/node-tsc#ae65a2c435",
     "lodash": "~3.8.0",
     "glob": "^5.0.5"
   },
